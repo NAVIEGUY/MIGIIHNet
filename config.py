@@ -9,7 +9,7 @@ log10_lr1 = -5.0
 log10_lr2 = -5.0
 lr1 = 2.0 * 10 ** log10_lr1
 lr2 = 2.0 * 10 ** log10_lr2
-epochs = 500000
+epochs = 5000
 weight_decay = 1e-5
 init_scale = 0.01
 
